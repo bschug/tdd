@@ -69,11 +69,11 @@ A few weeks later, the dripping had turned into a constant stream and Finance st
 
 The developer agreed. He wasn’t sure if the towel could handle all this additional load. So he crawled under the sink and closed the valve. Then he wrote an announcement on Slack:
 
-“I had to turn off the water tab in the kitchen. There is no tab water available until further notice.”
+“I had to turn off the water tap in the kitchen. There is no tap water available until further notice.”
 
 Seconds later, the PO came to his office, fuming.
 
-“You can’t turn off the tab water! How are we supposed to make coffee now?”
+“You can’t turn off the tap water! How are we supposed to make coffee now?”
 
 The developer leaned back in his chair and sighed. “I only do what Finance told me. Talk to them if you want it back on.” He enjoyed this revenge more than he should.
 
