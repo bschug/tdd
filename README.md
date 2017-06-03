@@ -115,4 +115,4 @@ TDD frameworks popped up left and right that promised to make life easier for TD
 
 People started to work around the drawbacks of TDD. Someone found out that if you wrap the towel around a non-leaking hose and pour clean water into the bucket, you produce much higher quality coffee. And after a while, everyone started doing it like that. At least until the next hype.
 
-This is how software is made. And for some reason that no one understands, some of it still works sometimes.
+They say you don't want to see the kitchen of your favorite restaurant. I say it can't be worse than how the software is made that recommended this restaurant to you.
