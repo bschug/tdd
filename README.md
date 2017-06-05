@@ -105,11 +105,11 @@ Eventually, waste water coffee was an established brand and lost its novelty app
 
 “There’s this upcoming tech conference. Don’t you want to give a talk about the challenges and solutions with the towel filter?”, the marketing girl asked the developer.
 
-Why not, he thought. Conference talks are a great way to land a new job. So he prepared a talk about Towel Driven Development, explained how the towel approach to leak sealing was more cost effective and agile than the classic hose replacement. And how it was possible without downtime of the dishwasher. 
+Why not, he thought. Conference talks are a great way to land a new job. So he prepared a talk about Towel Driven Development, explained how running a towel wrapper around the physical hose was more cost effective and agile than the traditional approach to leak management. And how it was possible with zero dishwasher downtime. 
 
-He went on to explain how they achieved high availability using multiple towels and how the whole towel-bucket-dishwasher stack worked. The lawyer insisted that he leave out the bit about the mold though.
+He went on to explain how they achieved high availability with a clever towel rotation and how the whole towel-bucket-dishwasher stack worked in conjunction with the coffee machine. The lawyer insisted that he leave out the bit about the mold though.
 
-The talk was a great success and soon after, developers all over the world were hyped about that new technology. Everyone wanted to work Towel Driven, investors insisted that their companies switch to the new paradigm because it was clearly superior, even if the company didn’t even have a kitchen. 
+The talk was a great success and soon after, developers all over the world were hyped about that new technology. Everyone wanted to work Towel Driven, investors insisted that their companies switch to the new paradigm because it was clearly superior, even if the company had nothing to do with coffee and didn’t even have a kitchen. 
 
 TDD frameworks popped up left and right that promised to make life easier for TDD developers. Private schools offered expensive courses for certified towel administrators. The developer quit his job at the software company and became a highly sought-after TDD consultant.
 
