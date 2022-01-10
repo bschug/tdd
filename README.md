@@ -59,7 +59,7 @@ The PO sighed. “Look, I know you want to work clean and by the book, and best 
 
 “Alright, alright, the bucket stays.”, the PO said, and the developer couldn’t shake the feeling that they had tricked him somehow.
 
-Weeks went by and the towel and bucket did their job. Even the developer started to feel a little proud of his creative solution. Then the water tab of the sink broke.
+Weeks went by and the towel and bucket did their job. Even the developer started to feel a little proud of his creative solution. Then the water outlet of the sink broke.
 
 At first it was dripping. A constant clonk-clonk that really started to annoy the developer, who could hear it from his office. He wanted to install new sealing rings but PO and Finance said the problem wasn’t severe enough to waste time and money on it, and it didn’t help the product either.
 
